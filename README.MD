@@ -1,0 +1,3 @@
+#VIRUS TOTAL INCIDENT RESPONSE SCRIPTS# <br>
+VTCLI.py: Command line utility allows querying IoC's on the fly.  Supports URL, IP Address, and File Hashes. <br>
+more to come...
